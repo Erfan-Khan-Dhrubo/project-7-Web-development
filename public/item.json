@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A classic Leica M3 camera, highly sought after by collectors and photography enthusiasts.",
+    "currentBidPrice": 3000,
+    "timeLeft": "4 Hours",
+    "bidsCount": 15,
+    "image": "https://i.ibb.co.com/fdKx622X/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "A vintage electric guitar from 1965, known for its iconic sound and design.",
+    "currentBidPrice": 2750,
+    "timeLeft": "6 Hours",
+    "bidsCount": 10,
+    "image": "https://i.ibb.co.com/jPK3SG2b/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "An original 1984 Apple Macintosh 128K computer, a piece of tech history.",
+    "currentBidPrice": 3500,
+    "timeLeft": "1 Day",
+    "bidsCount": 18,
+    "image": "https://i.ibb.co.com/hFnd8xPT/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "A classic Rolex Submariner 16610 watch, admired for its elegance and durability.",
+    "currentBidPrice": 2900,
+    "timeLeft": "18 Hours",
+    "bidsCount": 22,
+    "image": "https://i.ibb.co.com/jZMTdwSk/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "A rare first edition of 'The Great Gatsby', a literary treasure.",
+    "currentBidPrice": 3100,
+    "timeLeft": "3 Days",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co.com/67hWyqr4/Side-Chair-Back-Chair-Fabric-Upholstered-Seat-Chairs-For-Occasional-Bedroom-Leisure-Living-Room-Bedr.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "An iconic mid-century modern Eames lounge chair, stylish and timeless.",
+    "currentBidPrice": 2750,
+    "timeLeft": "2 Days",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/3wBQJ8m/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "An original screen print by the enigmatic artist Banksy.",
+    "currentBidPrice": 4000,
+    "timeLeft": "8 Hours",
+    "bidsCount": 27,
+    "image": "https://i.ibb.co.com/0pPRmyHb/Bid7-min.png"
+  }
+]

@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --color-navbarBlue: #003ea4;
+  --color-navbarYellow: #ffd337;
+  --color-grey: #ebf0f5;
+  --color-black: #000000;
+  --color-backGround: #ebf0f5;
+  --color-tableText: #0e2954;
+  --color-tableBorder: rgba(14, 41, 84, 0.1);
+}

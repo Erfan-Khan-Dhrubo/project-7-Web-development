@@ -1,0 +1,5 @@
+body {
+  background-color: white; /* Set the background color to white */
+  color: black; /* Optional: Ensure text is readable on a white background */
+  margin: 0; /* Reset margin for a consistent layout */
+}
