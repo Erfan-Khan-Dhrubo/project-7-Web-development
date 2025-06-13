@@ -43,7 +43,7 @@ Auction Gallery is a React-based project designed for practicing and showcasing 
 
 ## Live Demo:
 
-Check out the live version of the Auction Gallery here: <a href="project-8-web-development" target="_blank">http://project-7-web-development.surge.sh</a>
+Check out the live version of the Auction Gallery here: <a href="https://project-7-web-development.netlify.app/" target="_blank"> Project 7 </a>
 
 ## A visual representation of my page.
 
